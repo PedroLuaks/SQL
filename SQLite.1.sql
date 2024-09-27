@@ -1,0 +1,10 @@
+--SELECT * FROM  alunos WHERE idade = 18 
+--SELECT * FROM  alunos WHERE nome = 'Pedro' 
+--SELECT * FROM alunos WHERE curso = 'Desenvolvimento de Sistemas' 
+--SELECT * FROM alunos WHERE curso =  'Gestão de TI' 
+--SELECT * FROM alunos WHERE turma = '1A' 
+--SELECT * FROM alunos WHERE curso =  'Gestão de TI' OR  curso = 'Engenharia de Software'
+--SELECT * FROM alunos WHERE idade <=18
+--SELECT * FROM alunos WHERE idade >=18
+--SELECT * FROM alunos WHERE nome = 'Roberto Silva' or nome = 'Diego Costa'
+--SELECT * FROM alunos WHERE turma = '1A' OR turma = '3A'
